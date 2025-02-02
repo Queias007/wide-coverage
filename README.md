@@ -1,4 +1,4 @@
-# 📌 Projeto [Nome do Projeto]
+# 📌 Projeto Wide Coverage
 
 Bem-vindo(a) ao meu projeto! Este é um exemplo de um site estilizado utilizando HTML e CSS, com foco em responsividade. 📱💻
 
