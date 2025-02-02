@@ -16,7 +16,7 @@ Bem-vindo(a) ao meu projeto! Este é um exemplo de um site estilizado utilizando
 
 ## 📸 Preview
 
-![Preview](URL-da-imagem-preview)
+<img src="https://github.com/Queias007/wide-coverage/blob/main/assets/print-wide.png?raw=true" width="800">
 
 ---
 
